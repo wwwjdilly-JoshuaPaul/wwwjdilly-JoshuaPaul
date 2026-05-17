@@ -12,12 +12,12 @@ Operator who doubled a 5-location business across five years. Now I ship the sys
 
 ### Productized on Fiverr
 
-[fiverr.com/selahaisings](https://www.fiverr.com/selahaisings) — ADA Compliance Starter Pack, $199.
+[fiverr.com/s/99l70Gx](https://www.fiverr.com/s/99l70Gx) — ADA Compliance Starter Pack, $199.
 
 ### Background
 
-- **2014–2020**: Costco operating systems — **999% unit-profit growth in one year**.
 - **2020–2025**: Director of Operations, Upstate Hearing — doubled the business across 5 clinic locations. Built the Brain Health community-seminar series from scratch.
+- **Prior**: A decade of operations leadership at a Fortune 50 retailer.
 
 ### Operating principles
 
