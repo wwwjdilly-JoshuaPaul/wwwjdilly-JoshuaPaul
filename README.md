@@ -1,6 +1,8 @@
-## Joshua Paul · Selah Web Agency
+## Joshua Paul · [Selah Web Agency](https://selahweb.com)
 
 Operator who doubled a 5-location business across five years. Now I ship the systems.
+
+🌐 **[selahweb.com](https://selahweb.com)** — operator hub
 
 ### Live properties
 
