@@ -4,13 +4,16 @@ Operator who doubled a 5-location business across five years. Now I ship the sys
 
 🌐 **[selahweb.com](https://selahweb.com)** — operator hub
 
+> **Currently shipping:** [morninglamp.com/subscribe](https://morninglamp.com/subscribe) — weekly devotional newsletter, free to join.
+
 ### Live properties
 
 | | What it does | Stack |
 |---|---|---|
-| **[selahsavings.com](https://selahsavings.com)** | Automated WCAG 2.1 accessibility scans · $49 single, $199 starter pack | Cloudflare Workers + D1 + R2 + Browserless + Stripe |
 | **[morninglamp.com](https://morninglamp.com)** | Weekly scripture-and-reflection devotional newsletter | Vite + React + Postmark-as-CRM + Vercel |
-| **[kelshi.us](https://kelshi.us)** | Two autonomous prediction-market signal bots · public proof-of-edge ledger | Python on GitHub Actions cron + Telegram |
+| **[selahsavings.com](https://selahsavings.com)** | Automated WCAG 2.1 accessibility scans · $49 single, $199 starter pack | Cloudflare Workers + D1 + R2 + Browserless + Stripe |
+| **[Selah Aisings — _Let the Silence Say It_](https://distrokid.com/hyperfollow/selahaisings/let-the-silence-say-it/)** | Faith-ambient album · live on Spotify, Apple Music & all DSPs | Suno → DistroKid → [Apple](https://music.apple.com/us/artist/selah-aisings/1895985867) |
+| **[kelshi.us](https://kelshi.us)** | Prediction-market signal bots · proof-of-edge ledger | Python + GitHub Actions + Telegram |
 
 ### Productized on Fiverr
 
